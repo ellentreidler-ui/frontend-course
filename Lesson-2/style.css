@@ -1,0 +1,31 @@
+h2{
+    font-size: 48px;
+    color: darkblue;
+
+    margin-top: 100px;
+    margin-left: 500px;
+
+}
+
+h4{
+    font-size: 24px;
+    color: blueviolet;
+    border: 10px solid brown;
+}
+
+p {
+    color: red;
+    font-size: 38px;
+    background: beige;
+
+    width: 800px;
+    height: 160px;
+
+    margin-top: 24px;
+    margin-left: 100px;
+
+    padding-left: 20px;
+
+    box-sizing: border-box;
+}
+
