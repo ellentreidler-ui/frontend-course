@@ -1,0 +1,42 @@
+.target1{
+    height: 600px;
+    width: 1000px;
+    background: black;
+    padding: 4px;
+}
+.target2{
+    height: 15%;
+    width: 100%;
+    background: darkorange;
+}
+.target3{
+    width: 25%;
+    height:70%;
+    background: red;
+    float: left;
+}
+.target4{
+    width: 25%;
+    height:70%;
+    background:green;
+    float:left;
+}
+.target5{
+    width: 25%;
+    height:70%;
+    background:cornflowerblue;
+    float: left;
+}
+.target6{
+    width: 25%;
+    height:70%;
+    background:black;
+    float: left;
+}
+
+.target7{
+    height: 15%;
+    width: 100%;
+    background: darkorange;
+    float: left;
+}
