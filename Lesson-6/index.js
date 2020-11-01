@@ -320,10 +320,165 @@ alert(numberSixteen);*/
 /*const numberSixteen = 20;
 document.write(numberSixteen);*/
 
+/*task 4*/
+
+/*let userName = prompt('What is your name');
+document.write(userName);
+
+let userLast_name = prompt('What is your last name');
+document.write(userLast_name);
+
+let userNickname = prompt('What is your nickname');
+document.write(userNickname);
+
+
+
+let userName = prompt('What is your name');
+alert(userName);
+
+let userLast_name = prompt('What is your last name');
+alert(userLast_name);
+
+let userNickname = prompt('What is your nickname');
+alert(userNickname);
+
+
+
+let userName = prompt('What is your name');
+console.log(userName);
+
+let userLast_name = prompt('What is your last name');
+console.log(userLast_name);
+
+let userNickname = prompt('What is your nickname');
+console.log(userNickname);*/
 
 
 
 
+/*task 5*/
+/*
+let userName = prompt('What is your name');
+let userLast_name = prompt('What is your last name');
+let userNickname = prompt('What is your nickname');
+
+let person = userName.concat(userLast_name, userNickname);
+document.write(person);
+*/
+
+
+
+/*task 7*/
+/*let number = +prompt('enter a number');
+console.log(number);
+
+let numberTwo = +prompt('enter a numberTwo');
+console.log(numberTwo);
+
+let numberThree = +prompt('enter a numberThree');
+console.log(numberThree);*/
+
+
+/*task 8*/
+/*
+let number = prompt('enter a number');
+let parsed = parseInt(number);
+console.log(parsed);
+
+let numberTwo = prompt('enter a number ');
+let parsedTwo = parseInt(numberTwo);
+console.log(parsedTwo);
+
+let numberThree = prompt('enter a number');
+let parsedThree = parseInt(numberThree);
+console.log(parsedThree);
+
+let result = (parsed + parsedTwo + parsedThree);
+/!*document.write(result);*!/
+console.log(result);*/
+
+
+
+
+/*task 9*/
+
+/*let number = prompt('enter a number');
+let parsed = parseFloat(number);
+console.log(parsed);
+
+let numberTwo = prompt('enter a number ');
+let parsedTwo = parseFloat(numberTwo);
+console.log(parsedTwo);
+
+let numberThree = prompt('enter a number');
+let parsedThree = parseFloat(numberThree);
+console.log(parsedThree);
+
+let result = (parsed + parsedTwo + parsedThree);
+document.write(result);
+console.log(result);*/
+
+
+/*task 10*/
+/*let number = prompt('enter a number');
+let parsed = parseFloat(number);
+let mathOne = Math.round(parsed)
+console.log(mathOne);
+
+let numberTwo = prompt('enter a number ');
+let parsedTwo = parseFloat(numberTwo);
+let mathTwo = Math.round(parsedTwo);
+console.log(mathTwo);
+
+/!*console.log(Math.round(parseFloat(numberTwo)));*!/
+
+let numberThree = prompt('enter a number');
+let parsedThree = parseFloat(numberThree);
+let mathThree = Math.round(parsedThree);
+console.log(mathThree);
+
+let result = (mathOne + mathTwo + mathThree);
+document.write(result);
+console.log(result);*/
+
+
+/*task 11*/
+/*let number = prompt('enter a number');
+let numberTwo = prompt('enter a number');
+let parsed = parseInt(number);
+let parsedTwo = parseInt(numberTwo);
+let newNumber = Math.pow(parsed, parsedTwo);
+document.write(newNumber);*/
+
+
+
+/*task 12*/
+/*
+let a = 100;
+let b = '100';
+let c = true;
+let d = undefined;
+
+console.log(typeof a);
+console.log(typeof b);
+console.log(typeof c);
+console.log(typeof d);
+*/
+
+
+/*task 13*/
+
+console.log(5>6);
+console.log(5 == 6);
+console.log(5 === 6);
+console.log(10 == 10);
+console.log(10 === 10);
+console.log(10 == 10);
+console.log(10 != 10);
+console.log(10 !== 10);
+console.log(10 > 10);
+console.log(123 === '123');
+console.log(123 !== '123');
 
 
 
