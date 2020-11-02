@@ -200,12 +200,15 @@ for (let min = 0; min < 2; min +=1 ) {
 
 /*---22---*/
 
-for (let hour = 0; hour <= 2; hour +=1 ) {
+// for (let hour = 0; hour <= 2; hour +=1 ) {
+//     let minutes = hour === 2 ? 20 : 60
+//     for (let min = 0; min <= minutes; min += 1) {
+//         for (let sec = 0; sec <= 60; sec += 1) {
+//             document.writeln(`${hour}:${min}:${sec}`);
+//         }
+//
+//     }
+// }
 
-    for (let min = 0; min <= 20; min += 1) {
-        for (let sec = 0; sec <= 60; sec += 1) {
-            document.writeln(`${hour}:${min}:${sec}`);
-        }
-
-    }
-}
+// умова ? так : інакше
+// ? - перевір умову
